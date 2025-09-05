@@ -1,2 +1,2 @@
-# drimit-labs
-Drimit Labs
+# Welcome to Drimit Labs
+Our Open Source Projects Collection
