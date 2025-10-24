@@ -1,2 +1,2 @@
 # Welcome to Drimit Labs
-Our Open Source Projects Collection
+Our Open Source Projects and Standards Collection
